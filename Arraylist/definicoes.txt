@@ -1,0 +1,3 @@
+Classe = É uma referência a um objeto do mundo real
+Atributos = São as características da classe
+Metodos = São as ações da classe 
